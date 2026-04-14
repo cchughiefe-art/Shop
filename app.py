@@ -1,12 +1,11 @@
 import streamlit as st
 
-# Custom Page Style
 st.set_page_config(page_title="LQC Shop Manager", page_icon="📱")
 
-st.markdown("<h1 style='text-align: center; color: #00f2fe;'>📱 LQC Smart Shop Manager</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center;'><i>Vibe Coder Edition - Lagos 2026</i></p>", unsafe_allow_html=True)
+# The Vibe Coder Header
+st.markdown("<h1 style='text-align: center; color: #00f2fe;'>📱 LQC Shop Manager</h1>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'><b>Search by Market ID (Flex Code) or Model</b></p>", unsafe_allow_html=True)
 
-# Load Database
 def load_db():
     try:
         with open("database.txt", "r") as f:
@@ -16,24 +15,35 @@ def load_db():
 
 db = load_db()
 
-# Search Section
-st.subheader("🔍 Search Compatibility")
-query = st.text_input("Enter Model, Name, or Pin (e.g., X6816, A12, 37-pin)").lower()
+# Main Search Bar
+query = st.text_input("🔍 Type Market ID (e.g., BF7, KI5, LG6) or Phone Name", "").strip().lower()
 
 if query:
     results = [line for line in db if query in line.lower()]
     if results:
+        st.write(f"Found {len(results)} Groups:")
         for res in results:
-            st.success(res)
+            # We split the line to highlight the Main ID (everything before the first '/')
+            parts = res.split('/')
+            main_id = parts[0].strip()
+            others = " / ".join(parts[1:]) if len(parts) > 1 else ""
+            
+            with st.container():
+                st.markdown(f"### 🏷️ {main_id}")
+                if others:
+                    st.write(f"**Also fits:** {others}")
+                st.divider()
     else:
-        st.error("No match found in database.")
+        st.error("Model not found in database.")
 
-# View All Section
-with st.expander("📜 View Full Database"):
-    for line in db:
-        st.write(line)
+# Quick Guide for the Shop
+st.sidebar.header("🛠️ Market ID Guide")
+st.sidebar.markdown("""
+- **BF7:** Pop 7 Pro / Smart 7 / A60
+- **KI5:** Spark 10 / Smart 8 / P55
+- **LG6:** Hot 12 Play / Pova Neo 2
+- **KG5:** Smart 6 / Spark Go 2020
+""")
 
-# Sidebar Signature
-st.sidebar.markdown("### 🛠️ Developer Info")
-st.sidebar.info("Developed by: **Vibe Coder (Lagos)**")
-st.sidebar.write("Built for fast shop diagnostics.")
+st.sidebar.markdown("---")
+st.sidebar.write("Developed by: **Vibe Coder**")
