@@ -1,73 +1,34 @@
 # =========================================================================
-# LQC MASTER DATABASE - SMART & BUTTON PHONE CROSS-COMPATIBILITY
-# Updated: 14 April 2026
+# LQC MASTER DATABASE - MARKET ID (KING NAME) FIRST
 # =========================================================================
 
-# --- APPLE IPHONE ---
-# Note: Transfer original IC/FaceID/Home Button for full functionality
-iPhone 13 (A2633) / iPhone 13 Pro (A2638) / iPhone 14 (A2882) / iPhone 16e (A3287)
-iPhone 13 Pro Max (A2643) / iPhone 14 Plus (A2886)
-iPhone 15 (A3090) / iPhone 16 (A3287)
-iPhone 11 (A2221) / iPhone XR (A2105)
-iPhone XS MAX (A2101) / iPhone 11 Pro MAX (A2218)
-iPhone 12 (A2403) / iPhone 12 Pro (A2407)
-iPhone 7 (A1660) / iPhone 8 (A1863) / iPhone SE 2020 (A2275) / iPhone SE 2022 (A2595)
+# --- TRANSSION (FLEX/CHASSIS CODES) ---
+BF7 / Infinix Smart 7 (X6515) / Smart 7 HD (X6516) / Tecno Pop 7 Pro / Itel A60 / A60s / Itel P40
+KI5 / KI5K / Tecno Spark 10 / Spark 10C / Infinix Smart 8 (X6525) / Smart 8 HD / Itel P55 / Itel A70 / Itel S23
+LG6 / X6816 / Infinix Hot 12 Play / Infinix Hot 20 Play (X6825) / Infinix Hot 12 (X6817) / Tecno Pova Neo 2 / Pova 4
+BD4 / Infinix Smart 6 (X6511) / Smart 6 Plus (X6511G) / Spark Go 2022 / Pop 5 LTE
+KG5 / Tecno Spark 8C / Spark 9 (KG5p) / Smart 6 Plus (X6511G)
+KF6 / Infinix Smart 5 (X657) / Spark 7 / Spark 7T (KF6P) / Hot 10i (PR651)
+KJ5 / Tecno Spark 20 / Spark 20C (BG7n) / Spark 20 Pro (KJ6) / Infinix Hot 40
+X680 / Infinix Hot 9 Play / Hot 10 Play (X688) / Smart 4 Plus (X680)
+KE7 / CE7 / Infinix Hot 10 (X682) / Note 8i (X683) / Spark 6 / Camon 16
 
-# --- INFINIX ---
-Infinix Hot 12 Play (X6816) / Pova Neo 2 (LG6) / Hot 20 (X6826) / Hot 20 Play (X6825) / Pova 4
-Infinix Smart 6 (X6511) / Smart 6 Plus (X6511G) / Spark Go 2022 (BD4) / Pop 5 LTE
-Infinix Smart 7 (X6515) / Smart 7 HD (X6516) / Pop 7 Pro (BF7) / Spark Go 2023 / Itel A60s
-Infinix Smart 8 (X6525) / Smart 8 HD / Spark 10C (KI5K) / Itel P55 / Smart 8 Plus
-Infinix Hot 10 (X682) / Note 8i (X683) / Spark 6 (KE7) / Camon 16 (CE7)
-Infinix Hot 8 (X650) / Spark 4 (KC8) / Camon 12 (CC7)
-Infinix Smart 5 (X657) / Spark 7 (KF6) / Spark 7T (KF6P) / Hot 10i (PR651)
-Infinix Hot 40 (X6836) / Hot 40 Pro (X6837) / Hot 40i (X6528B) / Spark 20 Series
-Infinix Note 30 5G (X6711) / Note 30 Pro (X6716) / Note 30 (X6710)
-Infinix Hot 9 Play (X680) / Hot 10 Play (X688) / Smart 4 Plus (X680)
+# --- SAMSUNG (PANEL GROUPS) ---
+A12 / A02 / Galaxy A12 (A125) / A02 / A02s / M12 / F12 / A03s
+A15 / A14 / Galaxy A15 (A155) / A14 (4G/5G) / M15 / F15 / M14 / F14
+A30 / A50 / Galaxy A30 (A305) / A50 / A50s / M31 / F41
+A52 / S20 FE / Galaxy A52 / A52s / A53 / S20 FE (G780) / S21 FE
+A10 / Galaxy A10 (A105) / M10 / M20 / A10s (A107)
 
-# --- TECNO ---
-Tecno Spark 5 (KD7) / Spark 5 Pro (KD7) / Camon 15 (CD7) / Camon 15 Air (CD7)
-Tecno Spark 20 (KJ5) / Spark 20C (BG7n) / Spark 20 Pro (KJ6) / Infinix Hot 40
-Tecno Spark 8C (KG5) / Spark 9 (KG5p) / Smart 6 Plus (X6511G)
-Tecno Pop 5 LTE (BD4) / Pop 7 (BF6) / Smart 7 (X6515) / Spark Go 2023 (BF7)
-Tecno Spark Go 2020 (KG5) / Pop 5 (BD2) / Camon 12 Air (CC6) / Smart 5
-Tecno Pop 6 (BE7) / Pop 6 Pro (BE8)
-Tecno Spark 5 Air (KD6) / Spark 6 Air (KE6) / Pouvoir 4 (LC7) / LC8
-Tecno Spark 10 (KI5) / Spark 10C (KI5k) / Spark 10 5G (KI8) / Itel S23 / Smart 8
+# --- APPLE IPHONE (CHASSIS GROUPS) ---
+iPhone 13/14 / iPhone 13 (A2633) / 13 Pro (A2638) / 14 (A2882) / 16e (A3287)
+iPhone XR/11 / iPhone 11 (A2221) / iPhone XR (A2105)
+iPhone 12/12 Pro / iPhone 12 (A2403) / 12 Pro (A2407)
+iPhone 7/8/SE / iPhone 7 / 8 / SE 2020 / SE 2022
 
-# --- SAMSUNG ---
-Samsung Galaxy A12 (A125) / A02 (A022) / A02S (A025) / M12 (M127) / F12 (F127) / A03s
-Samsung Galaxy A30 (A305) / A50 (A505) / A50S (A507) / M31 (M315) / F41 (F415)
-Samsung Galaxy A10 (A105) / M10 (M105) / M20 (M205) / A10S (A107)
-Samsung Galaxy A15 (A155) / A25 (A256) / M15 (M156) / F15 (F156) / A14 (A145)
-Samsung Galaxy A26 (A266) / A17 (A176) / A57 (A576) / A37 (A376)
-Samsung Galaxy A06 (A065) / A05 (A055) / A04 (A045) / A04s
-Samsung Galaxy A55 (A556) / A35 (A356)
-Samsung Galaxy A52 (A525) / A52s (A528) / A53 (A536) / S20 FE (G780) / S21 FE
-Samsung Galaxy A71 (A715) / Note 10 Lite (N770) / S10 Lite (G770) / A81
-
-# --- OPPO & REALME ---
-Oppo A53 (CPH2127) / A32 (PDVM00) / A33 (CPH2137) / A76 (CPH2375) / A96 (CPH2333)
-Oppo A16 (CPH2269) / A17 (CPH2477) / A18 (CPH2591) / A38 (CPH2579) / A58 (CPH2577)
-Oppo Reno 12 5G (CPH2637) / Reno 12F 4G (CPH2687) / Reno 12FS
-Realme C53 (RMX3760) / Realme C51 (RMX3830) / Realme Note 50 (RMX3834)
-Realme C33 (RMX3624) / Realme C35 (RMX3511) / Realme C11 (RMX2185)
-
-# --- ITEL ---
-Itel A60 (A661L) / A661MS / A60S / P40 (P662L) / A70 (A665L) / Pop 7 Pro
-Itel P55 (P661N) / Itel P55 Plus (P662N) / S23 (S665L) / Spark 10C / Smart 8
-Itel Vision 2 (L6503) / S16 Pro (L6502)
-
-# --- XIAOMI / REDMI / POCO ---
-Redmi 9A (M2006C3LG) / 9C / 9i / 10A / 12C / POCO C3 / C31 / C55
-Redmi Note 11 (2201117TG) / Note 11S / POCO M4 Pro 5G
-Redmi Note 13 4G (23129RAA4G) / POCO M6 Pro 4G
-
-# --- BUTTON PHONES (FEATURE PHONES) ---
-Small 20-Pin Nokia (Soldered): Nokia 105, 106, 107, 108, 1202, 1280, 1616, 1800
-Small 24-Pin Universal (Soldered): Itel 2160, 2163, 2171, 2173, 5020, T301, T349, B310E, Guru Music 2
-Small 24-Pin Nokia-Specific (Soldered): Nokia 105 (2017/19/22/23), 110, 130, 210
-Medium 37-Pin Soldered Universal: T401, T402, T410, T454, Itel 5080, L800, L700, T430
-Medium 37-Pin FPC Clip-on: Nokia 225, 215, 222, 220, 216, 206, 207, 301, 515, 3210 (2024)
-Big 37-Pin FPC Clip-on: T473, T474, T484, T528, T529, Itel 5615, 5606, 5626, Nokia 150 (2020)
-Big 40-Pin FPC Premium: Nokia 230, 3310 (2017), 5310 (2024), 2720 Flip, 6310 (2024)
+# --- BUTTON PHONES (PIN COUNT FIRST) ---
+20-PIN NOKIA / Nokia 105 / 106 / 107 / 108 / 1202 / 1280 / 1616 / 1800
+24-PIN UNIVERSAL / Itel 2160 / 2163 / 2171 / 2173 / Tecno T301 / T349 / B310E / Guru Music 2
+37-PIN SOLDED / Tecno T401 / T402 / T410 / T430 / T454 / Itel 5080 / Gionee L800
+37-PIN CLIP-ON / Nokia 225 / 215 / 222 / 220 / 216 / 206 / 207 / 3210 (2024)
+40-PIN CLIP-ON / Nokia 230 / 3310 (2017) / 5310 (2024) / 2720 Flip / 6310 (2024)
