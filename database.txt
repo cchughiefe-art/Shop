@@ -42,3 +42,28 @@ A32 / A15 / F2 / WX3 Lite / F1 / Oppo A32 / A15 / Realme C11 / C12
 A1 / A2 / A1+ / A2+ / Redmi A1 / A2 / A1 Plus / A2 Plus
 J4+ / J410 / J610 / Galaxy J4 Plus / J6 Plus
 J600 / A6 / Galaxy J6 (2018) / Galaxy A6
+
+# --- MEKFIDEL & SHOP NOTEBOOK UPDATES (APRIL 2026) ---
+# TRANSSION MARKET IDs
+KJ5 / BG6 / BG7 / X6525 / X6528 / X6526 / A70s / Spark 20 / Spark 20C / Smart 8 / Hot 40i
+CH6 / CH7 / CG7 / LE6j / X6827 / X6812 / X6815 / Camon 12 Air / Camon 15 / Hot 11s / P37 Pro
+CE7 / KE7 / LD7 / X683 / X682 / Camon 16 / Spark 6 / Note 8i / Hot 10
+X668 / X666 / X663 / X6826 / X6827 / X6825 / Hot 12 Pro / Hot 20 5G / Hot 11 Pro / Hot 20 / Hot 20 Play
+KM4 / KM5 / 6728 / 6725 / Spark 20 Series / Smart 8 Pro
+BD4j / X6511 / Smart 6 / Smart 6 Plus
+KD7 / CD7 / CD6 / X655 / X656 / Spark 5 / Spark 5 Pro / Camon 15 / Camon 15 Air
+LC7 / KD6 / KE6 / LC8 / Pouvoir 4 / Spark 5 Air / Spark 6 Air
+X657 / P36 / P37 / 516 / P36 Pro / KE5 / Smart 5 / Itel P36 / P37
+
+# SAMSUNG & HUAWEI CROSS-COMPATIBILITY
+A14 / 1408 / 1409 / A11 / Galaxy A14 (4G/5G) / Galaxy M14 / Galaxy A11
+A03s / A02s / A04e / A03 / Galaxy A03s / A02s / A04e / A03
+Y6 PRIME / Y6s / Y6 2019 / Huawei Y6 Prime 2019 / Y6s / Y6
+P40 LITE / Y7P 2020 / Huawei P40 Lite / Y7p
+PSMART 2019 / P30 LITE / Huawei P-Smart 2019 / P30 Lite
+
+# OPPO & REDMI
+A58 / S17 / A49 / A58 Pro / Oppo A58 5G / Vivo S17 / A49
+A18 / A33+ / Oppo A18 / Oppo A33 Plus
+F2 / A32 / A15 / WX3 LITE / F1 / Oppo A32 / A15 / Realme C11 / C12
+A1 / A2 / A1+ / A2+ / Redmi A1 / A2 / A1 Plus / A2 Plus
