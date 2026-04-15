@@ -1,69 +1,43 @@
-# =========================================================================
-# LQC MASTER DATABASE - MARKET ID (KING NAME) FIRST
-# =========================================================================
+# =============================================================
+# LQC MASTER DATABASE - MARKET ID & MODEL NUMBERS (UNIFIED)
+# =============================================================
 
 # --- TRANSSION (FLEX/CHASSIS CODES) ---
-BF7 / Infinix Smart 7 (X6515) / Smart 7 HD (X6516) / Tecno Pop 7 Pro / Itel A60 / A60s / Itel P40
-KI5 / KI5K / Tecno Spark 10 / Spark 10C / Infinix Smart 8 (X6525) / Smart 8 HD / Itel P55 / Itel A70 / Itel S23
-LG6 / X6816 / Infinix Hot 12 Play / Infinix Hot 20 Play (X6825) / Infinix Hot 12 (X6817) / Tecno Pova Neo 2 / Pova 4
-BD4 / Infinix Smart 6 (X6511) / Smart 6 Plus (X6511G) / Spark Go 2022 / Pop 5 LTE
-KG5 / Tecno Spark 8C / Spark 9 (KG5p) / Smart 6 Plus (X6511G)
-KF6 / Infinix Smart 5 (X657) / Spark 7 / Spark 7T (KF6P) / Hot 10i (PR651)
-KJ5 / Tecno Spark 20 / Spark 20C (BG7n) / Spark 20 Pro (KJ6) / Infinix Hot 40
-X680 / Infinix Hot 9 Play / Hot 10 Play (X688) / Smart 4 Plus (X680)
-KE7 / CE7 / Infinix Hot 10 (X682) / Note 8i (X683) / Spark 6 / Camon 16
+BF7 / Infinix Smart 7 (X6515) / Smart 7 HD (X6516) / Tecno Pop 7 Pro (BF7) / Spark Go 2023 (BF7) / Itel A60 (A661L) / A60s (A661MS) / P40 (P662L)
+KI5 / KI5K / Tecno Spark 10 (KI5) / Spark 10C (KI5k) / Smart 8 (X6525) / Smart 8 HD (X6525B) / Itel P55 (P661N) / A70 (A665L) / S23 (S665L)
+LG6 / LG7 / Infinix Hot 12 Play (X6816) / Hot 20 (X6826) / Hot 20 Play (X6825) / Pova Neo 2 (LG6) / Pova 4 (LG7) / Hot 12 (X6817)
+BD4 / BD4j / Smart 6 (X6511) / Smart 6 Plus (X6511G) / Pop 5 LTE (BD4) / Spark Go 2022 (BD4i)
+KJ5 / BG6 / Spark 20 (KJ5) / Spark 20C (BG7n) / Spark 20 Pro (KJ6) / Smart 8 Pro (X6528) / Hot 40i (X6528B) / Hot 40 (X6836) / A70s
+CH6 / CG7 / Camon 12 Air (CC6) / Camon 15 (CD7) / Camon 15 Air (CD7) / Hot 11s (X6812) / P37 Pro (L6503) / CG7 / CH6 / CH7
+CE7 / KE7 / Camon 16 (CE7) / Spark 6 (KE7) / Note 8i (X683) / Hot 10 (X682) / LD7
+KG5 / KG5p / Spark 8C (KG5) / Spark 9 (KG5p) / Spark 9T (KG7) / Smart 6 Plus (X6511G)
+KF6 / BD3 / Spark 7 (KF6) / Spark 7T (KF6P) / Smart 5 (X657) / Pop 5 (BD2) / Hot 10i (PR651) / KG6
+X680 / X688 / Hot 9 Play (X680) / Hot 10 Play (X688) / Smart 4 Plus (X680)
+LC7 / KD6 / Pouvoir 4 (LC7) / Spark 5 Air (KD6) / Spark 6 Air (KE6) / Spark 5 (KD7) / LC8
+X650 / EC7 / Hot 8 (X650) / Spark 4 (KC8) / Camon 12 (CC7) / AC8 / AC2
 
 # --- SAMSUNG (PANEL GROUPS) ---
-A12 / A02 / Galaxy A12 (A125) / A02 / A02s / M12 / F12 / A03s
-A15 / A14 / Galaxy A15 (A155) / A14 (4G/5G) / M15 / F15 / M14 / F14
-A30 / A50 / Galaxy A30 (A305) / A50 / A50s / M31 / F41
-A52 / S20 FE / Galaxy A52 / A52s / A53 / S20 FE (G780) / S21 FE
-A10 / Galaxy A10 (A105) / M10 / M20 / A10s (A107)
+A12 / A02 / Galaxy A12 (A125) / A02 (A022) / A02s (A025) / M12 (M127) / F12 (F127) / A03s (A037) / A32 5G
+A15 / A14 / Galaxy A15 (A155) / A14 4G (A145) / A14 5G (A146) / M15 (M156) / F15 (F156) / M14 (M146) / F14 / 1408 / 1409
+A30 / A50 / Galaxy A30 (A305) / A50 (A505) / A50s (A507) / M31 (M315) / F41 (F415) / A70 (A705)
+A52 / S20 FE / Galaxy A52 (A525) / A52s (A528) / A53 (A536) / S20 FE (G780) / S21 FE (G990)
+A10 / A20 / Galaxy A10 (A105) / M10 (M105) / M20 (M205) / A10s (A107) / A20s (A207)
+A05 / A06 / Galaxy A06 (A065) / A05 (A055) / A05s (A057) / A04 (A045) / A04s (A047) / A04e (A042)
 
-# --- APPLE IPHONE (CHASSIS GROUPS) ---
+# --- HUAWEI / OPPO / REDMI ---
+Y6P / Y6S / Huawei Y6 Prime 2019 (MRD-LX1) / Y6s / Y6 2019 / P40 Lite / Y7P 2020 / P30 Lite
+A58 / A17 / Oppo A58 (CPH2577) / A57 (CPH2387) / A17 (CPH2477) / A18 (CPH2591) / A38 (CPH2579) / A77 / S17 / A49
+A32 / A15 / Oppo A32 (PDVM00) / A15 (CPH2185) / Realme C11 (RMX2185) / C12 (RMX2189) / C15 (RMX2180) / F2
+9A / 10A / Redmi 9A (M2006C3LG) / 10A (220233L2G) / 9C (M2006C3MG) / 12C (22120RN86G)
+A1 / A2 / Redmi A1 (220733SG) / A2 (23028RN4DG) / A1 Plus / A2 Plus
+
+# --- APPLE IPHONE ---
 iPhone 13/14 / iPhone 13 (A2633) / 13 Pro (A2638) / 14 (A2882) / 16e (A3287)
 iPhone XR/11 / iPhone 11 (A2221) / iPhone XR (A2105)
 iPhone 12/12 Pro / iPhone 12 (A2403) / 12 Pro (A2407)
-iPhone 7/8/SE / iPhone 7 / 8 / SE 2020 / SE 2022
 
-# --- BUTTON PHONES (PIN COUNT FIRST) ---
-20-PIN NOKIA / Nokia 105 / 106 / 107 / 108 / 1202 / 1280 / 1616 / 1800
-24-PIN UNIVERSAL / Itel 2160 / 2163 / 2171 / 2173 / Tecno T301 / T349 / B310E / Guru Music 2
-37-PIN SOLDED / Tecno T401 / T402 / T410 / T430 / T454 / Itel 5080 / Gionee L800
-37-PIN CLIP-ON / Nokia 225 / 215 / 222 / 220 / 216 / 206 / 207 / 3210 (2024)
-40-PIN CLIP-ON / Nokia 230 / 3310 (2017) / 5310 (2024) / 2720 Flip / 6310 (2024)
-
-# --- NEW DATA FROM THE SHOP (15 APRIL 2026) ---
-LG6 / LG7 / X6816 / X6819 / X6817 / X6826 / X6825 / X6835 / P40+ / Infinix Hot 12 Play / Hot 20 / Hot 20 Play
-KJ5 / BG6 / BG7 / X6525 / X6528 / X6526 / A70s / Spark 20 / Spark 20C / Smart 8 / Hot 40i
-CH6 / CH7 / CG7 / X6827 / X6812 / X6815 / Camon 12 Air / Camon 15 / Hot 11s / P37 Pro
-A58 / A57 / A17 / A77 / A18 / A38 / Oppo A58 5G / A57 New / A17 / A18 / A38
-A32 / A15 / F2 / WX3 Lite / F1 / Oppo A32 / A15 / Realme C11 / C12
-A1 / A2 / A1+ / A2+ / Redmi A1 / A2 / A1 Plus / A2 Plus
-J4+ / J410 / J610 / Galaxy J4 Plus / J6 Plus
-J600 / A6 / Galaxy J6 (2018) / Galaxy A6
-
-# --- MEKFIDEL & SHOP NOTEBOOK UPDATES (APRIL 2026) ---
-# TRANSSION MARKET IDs
-KJ5 / BG6 / BG7 / X6525 / X6528 / X6526 / A70s / Spark 20 / Spark 20C / Smart 8 / Hot 40i
-CH6 / CH7 / CG7 / LE6j / X6827 / X6812 / X6815 / Camon 12 Air / Camon 15 / Hot 11s / P37 Pro
-CE7 / KE7 / LD7 / X683 / X682 / Camon 16 / Spark 6 / Note 8i / Hot 10
-X668 / X666 / X663 / X6826 / X6827 / X6825 / Hot 12 Pro / Hot 20 5G / Hot 11 Pro / Hot 20 / Hot 20 Play
-KM4 / KM5 / 6728 / 6725 / Spark 20 Series / Smart 8 Pro
-BD4j / X6511 / Smart 6 / Smart 6 Plus
-KD7 / CD7 / CD6 / X655 / X656 / Spark 5 / Spark 5 Pro / Camon 15 / Camon 15 Air
-LC7 / KD6 / KE6 / LC8 / Pouvoir 4 / Spark 5 Air / Spark 6 Air
-X657 / P36 / P37 / 516 / P36 Pro / KE5 / Smart 5 / Itel P36 / P37
-
-# SAMSUNG & HUAWEI CROSS-COMPATIBILITY
-A14 / 1408 / 1409 / A11 / Galaxy A14 (4G/5G) / Galaxy M14 / Galaxy A11
-A03s / A02s / A04e / A03 / Galaxy A03s / A02s / A04e / A03
-Y6 PRIME / Y6s / Y6 2019 / Huawei Y6 Prime 2019 / Y6s / Y6
-P40 LITE / Y7P 2020 / Huawei P40 Lite / Y7p
-PSMART 2019 / P30 LITE / Huawei P-Smart 2019 / P30 Lite
-
-# OPPO & REDMI
-A58 / S17 / A49 / A58 Pro / Oppo A58 5G / Vivo S17 / A49
-A18 / A33+ / Oppo A18 / Oppo A33 Plus
-F2 / A32 / A15 / WX3 LITE / F1 / Oppo A32 / A15 / Realme C11 / C12
-A1 / A2 / A1+ / A2+ / Redmi A1 / A2 / A1 Plus / A2 Plus
+# --- BUTTON PHONES ---
+20-PIN / Nokia 105 / 106 / 107 / 108 / 1202 / 1280 / 1616 / 1800
+24-PIN / Itel 2160 / 2163 / 2171 / 2173 / Tecno T301 / T349 / B310E / Guru Music 2
+37-PIN CLIP / Nokia 225 / 215 / 222 / 220 / 216 / 206 / 207 / 3210
+40-PIN CLIP / Nokia 230 / 3310 (2017) / 5310 (2024) / 2720 Flip / 6310
